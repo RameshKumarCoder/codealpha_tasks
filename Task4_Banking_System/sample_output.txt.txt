@@ -1,0 +1,8 @@
+Account Holder: Ramesh
+Account Number: 1001
+Balance: 5500
+
+--- Transaction History ---
+
+Deposited: 2000
+Withdrawn: 1500

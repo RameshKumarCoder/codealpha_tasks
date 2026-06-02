@@ -1,0 +1,13 @@
+Registration successful!
+
+-------------------
+
+1. Register
+2. Login
+
+Choose: 2
+
+Username: Ramesh
+Password: abc123
+
+Login successful!

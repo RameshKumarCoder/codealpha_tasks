@@ -1,0 +1,6 @@
+Account Holder: Ramesh
+Account Number: 1001
+Initial Balance: 5000
+
+Deposit: 2000
+Withdraw: 1500

@@ -1,0 +1,21 @@
+Enter number of courses: 4
+
+Course 1
+Name: Mathematics
+Grade: 3.8
+Credits: 4
+
+Course 2
+Name: Programming
+Grade: 4.0
+Credits: 3
+
+Course 3
+Name: Physics
+Grade: 3.5
+Credits: 3
+
+Course 4
+Name: Database
+Grade: 3.7
+Credits: 2
